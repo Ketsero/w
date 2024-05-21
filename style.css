@@ -1,0 +1,43 @@
+h1 {
+    text-align:center;
+    color: rgb(0, 0, 0);
+}
+h2 {
+    text-align:center;
+    color: rgb(80, 80, 80);
+}
+body {
+    background-color:rgb(190, 190, 190);
+}
+p {
+    font-size: 25px;
+}
+a {
+    padding:10px;
+    margin: 20px;;
+}
+header {
+    background-color:black;
+    padding:20px;
+}
+header a {
+    border: 2px dashed rgb(105, 105, 105);
+    border-radius: 20px;
+    background-color:white;
+    color:rgb(199, 0, 199);
+}
+.w{
+   text-align: center;
+}
+.q{
+    text-align: center;
+ }
+ .e{
+    text-align: center;
+ }
+ .r{
+    text-align: center;
+ }
+ .t{
+    text-align: center;
+ }
